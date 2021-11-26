@@ -1,0 +1,34 @@
+.services-section {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.margin-top-2 {
+    margin-top: 2vh;
+}
+
+.blog-post {
+    margin-bottom: 30px;
+}
+
+#navbar-section {
+    box-shadow: 1px 5px 15px 0px #808080a6;
+}
+
+.navbar {
+    /*font-size: 1.02rem;*/
+    font-weight: 500;
+    font-size: larger;
+}
+
+.navbar-sticky {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background-color: inherit;
+}
+
+#navbar-dbdbd {
+    margin: 1vh 0;
+}
